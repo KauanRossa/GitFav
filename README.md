@@ -1,3 +1,9 @@
+<h1>Guia de instalação</h1>
+
+<p>npm init -y</p>
+<p>npm install lite-server</p>
+<p>npm start</p>
+
 <h1 align="center"> Stage06 <br/>GitFav</h1>
 
 <p align="center">
