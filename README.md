@@ -14,7 +14,7 @@
  <br/>
 
 <p align="center">
-  <img alt="final-layout" src="./assets/gitFav-capa.png" width="100%" >
+  <img alt="final-layout" src="./src/gitFav-capa.png" width="100%" >
 </p>
 
 ## 🚀 Tecnologias
